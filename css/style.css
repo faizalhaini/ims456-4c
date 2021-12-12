@@ -1,0 +1,90 @@
+h1
+	{
+		color:green;
+	}
+
+p
+	{
+		font-family: verdana;
+		font-size: 10px;
+	}
+
+
+img
+	{
+		border-radius: 40px;
+		border-width: 5px;
+	}
+
+
+body
+	{
+		font-family: Arial, Helvetica, sans-serif;
+	}
+
+header
+	{
+		background-color: #4f6f57;
+		padding: 10px;
+		text-align: center;
+		font-size: 30px;
+		color: #ccffe6;
+	}
+
+nav
+	{
+		float: left;
+		width: 25%;
+		height: 500px;
+		background: #99ccb3;
+		padding: 10px;
+	}
+
+nav ul
+	{
+		list-style-type: none;
+		padding: 0;
+	}
+
+
+article
+	{
+		/*float: left;
+		width: 75%;*/
+		padding: 10px;
+		height: 500px;
+		background-color: #cfe7ec; 
+	}
+
+section::after
+	{
+		content: "";
+		display: table;
+		clear:both;
+	}
+
+footer
+	{
+		background-color: #040d22;
+		padding: 10;
+		text-align: center;
+		color: #e6e6fa;
+		padding: 10px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
