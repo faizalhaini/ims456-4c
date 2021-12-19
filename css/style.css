@@ -72,15 +72,53 @@ footer
 		padding: 10px;
 	}
 
+.card-1
+	{
+		float: left;
+		width: 25%;
+		background-color: yellow;
+		height: 300px;
+	}
 
+.card-2
+	{
+		float: left;
+		width: 25%;
+		background-color: orange;
+		height: 300px;
+	}
 
+.card-3
+	{
+		float: left;
+		width: 25%;
+		background-color: yellow;
+		height: 300px;
+	}
 
+.card-4
+	{
+		float: left;
+		width: 25%;
+		background-color: orange;
+		height: 300px;
+	}
 
+.blok404
+	{
+		float: left;
+		width: 60%;
+		background-color: green;
+		height: 400px;
+	}
 
-
-
-
-
+.blok505
+	{
+		float: left;
+		width: 40%;
+		background-color: pink;
+		height: 400px;
+	}
 
 
 
